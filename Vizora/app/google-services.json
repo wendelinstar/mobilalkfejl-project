@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990687601470",
+    "project_id": "mobil-alkfejl-project",
+    "storage_bucket": "mobil-alkfejl-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990687601470:android:e12030aa8b124ad623826f",
+        "android_client_info": {
+          "package_name": "com.example.vizora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990687601470-s1krgcgu7869ss1fqleflfhsqomenoiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vizora",
+            "certificate_hash": "9863583fe42c29163ba24a42de22afcbc436417c"
+          }
+        },
+        {
+          "client_id": "990687601470-53opq4uidrh4jketdqvmeh57leirk4pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZQYtNmSc68-axpvaiYlPbbONNNkoOMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990687601470-53opq4uidrh4jketdqvmeh57leirk4pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Vízóra</string>
+    <string name="userName">teljes név</string>
+    <string name="password">jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="emailAddress">e-mail cím</string>
+    <string name="passwordAgain">jelszó újra</string>
+    <string name="cancel">Mégse</string>
+    <string name="bornDate">születési dátum (dupla katt)</string>
+
+    <string-array name="news_thing_names">
+        <item>Diktálási időszak</item>
+        <item>Munkálatok Szegeden</item>
+        <item>Mobilalkalmazás karbantartás</item>
+    </string-array>
+    <string-array name="news_thing_dates">
+        <item>2022.04.27.</item>
+        <item>2022.04.26.</item>
+        <item>2022.03.10.</item>
+    </string-array>
+    <string-array name="news_thing_infos">
+        <item>Diktálási időszak 2022. május 10-ike és május 17-ike között van. Írja fel a naptárába!</item>
+        <item>Munkálatok lesznek az Oskola utcában, Somogy utcában és Roosevelt téren 2022. április 30-tól május 14-ig. Az ott élő lakóktól elnézésüket kérjük a kellemetlen szituáció miatt.</item>
+        <item>Átmenetileg nem lesz elérhető az alkalmazás 2022. március 18-tól március 31-ig.</item>
+    </string-array>
+</resources>
